@@ -1,5 +1,5 @@
 * これなに
-mikutter(http://mikutter.hachune.net/)というtwitterクライアントでRT元を隠しつつRTするプラグインです
+mikutter(http://mikutter.hachune.net/ )というtwitterクライアントでRT元を隠しつつRTするプラグインです
 
 * どぼじでごんな”ごどずるの”おおおぉぉ
 アレ
